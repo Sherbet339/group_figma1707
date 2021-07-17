@@ -1,10 +1,4 @@
-#header {
-  background-color: black;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: baseline;
-      -ms-flex-pack: baseline;
-          justify-content: baseline;
+.nav {
+  margin-left: 100px;
 }
 /*# sourceMappingURL=style.css.map */
