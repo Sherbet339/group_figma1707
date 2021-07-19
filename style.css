@@ -10,4 +10,16 @@
 .bag {
   margin-right: 50px;
 }
+
+.head {
+  margin-left: 150px;
+}
+
+.head h1 {
+  font-size: 30px;
+}
+
+.head p {
+  color: gray;
+}
 /*# sourceMappingURL=style.css.map */
